@@ -5,5 +5,5 @@ A CLI based language translator built using BeautifulSoup, requests and argparse
 - The response is then recieved and parsed with BeautifulSoup to give the translations along with the examples of that word.
 - The response is also saved in a text file for future reference
 
-![](2021-02-04 09-35-30.gif)
+<img src="2021-02-04 09-35-30.gif" style="zoom:80%;" />
 
