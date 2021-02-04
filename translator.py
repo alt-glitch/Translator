@@ -3,7 +3,6 @@ import sys
 from bs4 import BeautifulSoup
 import argparse
 
-
 def display(translation_list, examples_list, to_lang, word):
     print("Context examples:")
     file_out = sys.stdout

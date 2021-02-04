@@ -1,0 +1,42 @@
+French Translations:
+
+soir
+soirée
+après-midi
+nocturne
+crépuscule
+veillée
+nuit
+Evening
+bonsoir
+dîner
+veille
+journée
+onagre
+
+French Examples:
+
+
+
+Yesterday evening I raised two points.
+Hier soir, j'ai soulevé deux points.
+
+
+
+The other item concerns Wednesday evening.
+L'autre point a trait à mercredi soir.
+
+
+
+Morning and evening sessions are available.
+Des séminaires le matin et en soirée sont offerts.
+
+
+
+The event also featured a cultural evening.
+L'événement a été marqué d'une soirée culturelle.
+
+
+
+Some centres offer women evening counselling sessions.
+Des centres offrent aux femmes des séances de conseil le soir.
